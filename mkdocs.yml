@@ -41,6 +41,7 @@ copyright: Copyright &copy; 2022 iDEC. CC-BY-4.0 | The International Directed Ev
 nav:
   - Home: index.md
   - Team: team.md
+  - Description: description.md
   - Project:
       - Background: project/background.md
       - Results: project/results.md
