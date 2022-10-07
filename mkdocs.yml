@@ -44,6 +44,7 @@ nav:
   - Description: description.md
   - Method: method.md
   - Result: result.md
+  - Safety: safety.md
   - Project:
       - Background: project/background.md
       - Results: project/results.md
