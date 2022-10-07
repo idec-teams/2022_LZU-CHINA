@@ -2,7 +2,7 @@ site_name: iDEC 2022 | LZU-CHINA
 
 theme:
   name: material
-  logo: img/idec-wiki-logo-white-bg.png
+  logo: img/logo-small.png
   favicon: img/idec-wiki-logo.png
 
   palette:
