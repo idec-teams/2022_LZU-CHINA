@@ -13,6 +13,4 @@ We culture each strain in M9 basic medium with relevant antibiotics (supplemente
 
 The initial OD600 value of all strains is 0.1. After 16-20 hours’ incubation, we detect OD600 and mRFP fluorescence through microplate reader (Thermo Fisher Scientific, USA) (excitation λ: 584nm/10 nm, emission λ: 607/10nm). The fluorescence of all reporters in vitro is calculated by dividing the crude mRFP pixel intensity by OD600, and both signals we obtain from the data of microplate reader. In addition, the background fluorescence signal need to be deducted (no plasmid EcN control). For hypoxia reporters, the fluorescence signal was normalized through the control of constitutive promoter (p23114) to explain the protein folding maturation under hypoxia.
 
-The fold change of each reporter was quantified as the ratio of normalized fluorescence signal under
-induced and non-induced conditions. We average over all three duplicate values. The baseline
-conditions are 20% oxygen concentration, 0 mM lactic acid concentration, pH $7.3^{25}$.
+The fold change of each reporter was quantified as the ratio of normalized fluorescence signal under induced and non-induced conditions. We average over all three duplicate values. The baseline conditions are 20% oxygen concentration, 0 mM lactic acid concentration, pH $7.3^{25}$.
