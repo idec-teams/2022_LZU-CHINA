@@ -43,6 +43,7 @@ nav:
   - Team: team.md
   - Description: description.md
   - Method: method.md
+  - Result: result.md
   - Project:
       - Background: project/background.md
       - Results: project/results.md
