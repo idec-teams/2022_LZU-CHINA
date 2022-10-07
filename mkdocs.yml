@@ -42,6 +42,7 @@ nav:
   - Home: index.md
   - Team: team.md
   - Description: description.md
+  - Method: method.md
   - Project:
       - Background: project/background.md
       - Results: project/results.md
