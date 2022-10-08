@@ -5,12 +5,4 @@ This wiki template was built using [Material for MkDocs](https://squidfunk.githu
 Should you decide to use this wiki, however, we have a [tutorial](https://wiki.idec.io/team_wiki/mkdocs/) to walk you through the basics.
 
 
-<iframe src="视频或者网页路径" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
+<iframe src="img/pv.mov" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height=600 width=800> </iframe>
