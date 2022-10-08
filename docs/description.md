@@ -38,3 +38,4 @@ Salmonella Typhimurium strain. Sci Rep. 2012;2:436. https://doi.org/10.1038/srep
 [^21]:Li R, Zhou T, Khan A, et al. Feed-additive of bioengineering strain with surface-displayed laccase degrades sulfadiazine in broiler manure and maintains intestinal flora structure. J Hazard Mater. 2021/03/15/ 2021;406:124440. https://doi.org/10.1016/j.jhazmat.2020.124440
 [^22]:Prindle A, Samayoa P, Razinkov I, Danino T, Tsimring LS, Hasty J. A sensing array of radically coupled genetic'biopixels'. Nature. Dec 18 2011;481(7379):39-44. https://doi.org/10.1038/nature10722
 [^23]:Young KD, Young R. Lytic action of cloned phi X174 gene E. J Virol. Dec 1982;44(3):993-1002. https://doi.org/10.1128/jvi.44.3.993-1002.1982
+[^24]:Marguet P, Tanouchi Y, Spitz E, Smith C, You L. Oscillations by minimal bacterial suicide circuits reveal hidden facets of host-circuit physiology. PLoS One. Jul 30 2010;5(7):e11909. https://doi.org/10.1371/journal.pone.0011909
