@@ -4,7 +4,7 @@ According to the WHO GLOBOCAN database, colorectal cancer (CRC) is the third mos
 
 Figure1. E. coli lactate, pH and hypoxia induce regulatory mechanisms.
 
-Recent work has demonstrated that microorganisms injected directly intravenously can grow selectively in tumors without adverse effects on host health4-6. Specifically, the ability of bacteria to selectively home to tumors has increased the use of microbes as therapeutic or diagnostic possibilities7.
+Recent work has demonstrated that microorganisms injected directly intravenously can grow selectively in tumors without adverse effects on host health[^4] [^5] [^6]. Specifically, the ability of bacteria to selectively home to tumors has increased the use of microbes as therapeutic or diagnostic possibilities[^7].
 
 In order to construct a bacterial biosensor system that can distinguish the unique organ environment, oxygen, pH and lactic acid are considered as unique indicators of colorectal cancer tumor tissue. Three operons were used to specifically recognize oxygen, pH and lactic acid. pPepT is used to sense oxygen. In the absence of oxygen, FNR binds to the $[4Fe-4S]^{2+}$ cluster to generate homologous dimers. However, in the presence of oxygen, $[4Fe-4S]^{2+}$clusters are degraded, resulting in the dissociation of FNR dimers into inactive monomers8. L-lactic acid induction is based
 on lldPRD operon9.The lactic acid sensing system consists of two parts. pLldP drives the expression of interested genes. LldR repressor binds to pLldP to inhibit the expression of reporter genes, unless bound to lactic acid10,11. The pH-sensitive promoter pCadC, regulated by CadC, exhibits higher activity in acidic media than in neutral pH media.
@@ -18,3 +18,7 @@ cancer. Life Sci 254, 117754 (2020). https://doi.org/10.1016/j.lfs.2020.117754
 [^3]: Cao, C., Yan, T.D., Black, D. & Morris, D.L. A systematic review and meta-analysis of cytoreductive surgery
 with perioperative intraperitoneal chemotherapy for peritoneal carcinomatosis of colorectal origin. Ann Surg Oncol
 16, 2152-2165 (2009). https://doi.org/10.1245/s10434-009-0487-4
+[^4]: Forbes, N.S. Engineering the perfect (bacterial) cancer therapy. Nat Rev Cancer 10, 785-794 (2010). https://doi.org/10.1038/nrc2934
+[^5]: Xiang, S., Fruehauf, J. & Li, C.J. Short hairpin RNA-expressing bacteria elicit RNA interference in mammals. Nat Biotechnol 24, 697-702 (2006). https://doi.org/10.1038/nrc2934
+[^6]: Zhao, M., et al. Tumor-targeting bacterial therapy with amino acid auxotrophs of GFP-expressing Salmonella typhimurium. Proc Natl Acad Sci U S A 102, 755-760 (2005). https://doi.org/10.1073/pnas.0408422102
+[^7]: Toso, J.F., et al. Phase I study of the intravenous administration of attenuated Salmonella typhimurium to patients with metastatic melanoma. J Clin Oncol 20, 142-152 (2002). https://doi.org/10.1200/jco.2002.20.1.142
