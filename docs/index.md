@@ -1,6 +1,6 @@
 # iDEC 2022 | LZU-CHINA
 
-This wiki template was built using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). You are by no means confined to use this template. In fact, you are encouraged to build your own unique **static site** that best suits your project, and you are free to use any framework you like.
-
-Should you decide to use this wiki, however, we have a [tutorial](https://wiki.idec.io/team_wiki/mkdocs/) to walk you through the basics.
-
+![fig1](img/index/fig1.jpg)
+![fig2](img/index/fig2.jpg)
+![fig3](img/index/fig3.jpg)
+![fig4](img/index/fig4.jpg)
