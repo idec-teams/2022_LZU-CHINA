@@ -22,6 +22,8 @@ Our interview with the patient was launched at the First Hospital of Lanzhou Uni
 ## Experimental safety training and safety assurance
 
 As members of the biology community, we are well aware of the importance of experimental safety. Before we start the experiment, each of us was trained in laboratory skills, including but not limited to how to inoculate bacteria, how to use sterilization devices and how to do personal protection. So during our project, it greatly reduces risks of microbes' harm to human body. In the last day of our training, our supervisor will examine us, and those who fail will continue to study until they pass before being allowed to enter the lab. At the same time, our laboratory has posted the laboratory safety rules, and a person is responsible for the safety of our laboratory. His telephone number is posted on the wall of the laboratory, so that we can get in touch with him at any time. In addition to supervisors, our team also has counselors and instructors who advise us on safety issues throughout our experiments, and who are able to spot potential risks that we are not aware of. If we find some risks in the project, we will first seek help from the tutor and consultant. If we do not solve the problem well, we will seek help from the Experimental Safety Management Center of Lanzhou University, which can provide us with more effective solutions.
+![fig1](img/safety/fig1.png)
+
 
 ## Experimental Safety
 
@@ -29,9 +31,15 @@ The laboratory we use is a level 1 standard microbiology laboratory, which is eq
 
 For usual personal protection, our laboratory provides sufficient disposable medical gloves and masks for each person to prevent inhalation of microorganisms. For the whole laboratory building access, People who want to enter the building must use their activated campus card, otherwise the door cannot be opened. Only those who have submitted and approved an application to the Lab Safety Center can have their campus card activated. For our laboratory access, we have updated the fingerprint and coded locks on the lab doors (can see it in picture we uploaded in the safety form) since we took over the lab. Only our team members can enter our laboratory. 
 
+![fig2](img/safety/fig2.png)
+![fig3](img/safety/fig3.png)
+![fig4](img/safety/fig4.png)
+
 ## Emergency treatment
 
 Our laboratory is equipped with eye shower, emergency shower and medical first aid kit for emergencies. At the same time, there is a fire alarm button outside our laboratory, which can warn the whole laboratory members to escape safely in case of a fire.
+
+![fig5](img/safety/fig1.png)
 
 ## Waste treatment
 
